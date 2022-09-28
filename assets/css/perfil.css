@@ -1,0 +1,17 @@
+.circle-perfil {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 2px;
+    border-color: #BB99DD;
+}
+
+.circle-perfil img {
+    width: 190px;
+    height: 190px;
+    border-radius: 100px;
+}

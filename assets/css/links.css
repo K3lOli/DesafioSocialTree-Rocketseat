@@ -1,0 +1,21 @@
+li {
+    list-style: none;
+    width: 326px;
+    height: 49px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 2px#BB99DD;
+    border-radius: 4px;
+    margin: 0 0 10px;
+    transition: background 0.2s;
+}
+
+li:hover {
+    background: #f4ebfe72;
+}
+
+li a {
+    text-transform: uppercase;
+    color: #BB99DD;
+}
